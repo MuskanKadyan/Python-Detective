@@ -1,0 +1,16 @@
+Investigation Report
+Case:Missing Diamond
+Crime:Theft
+
+Suspect Scores:
+Rahul ->0points
+Priya ->20points
+Rhea ->40points
+Rohit ->220points
+
+ Highest Evidence Score:
+Rohit ->220points
+
+ Status: Further investigation required
+
+ Investigation Report Saved Successfully
