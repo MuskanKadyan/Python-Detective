@@ -54,10 +54,7 @@ Python-Detective/
 └── README.md
 
 
- ### 6. Future Improvements
-
-```markdown
- ##  Future Improvements
+## Future Improvements
 
 - Some features that can be added in future versions:
 
