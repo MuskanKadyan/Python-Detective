@@ -46,7 +46,6 @@ The system also determines the suspicion level based on the highest evidence sco
 
  ## Project Structure
 
-```text
 Python-Detective/
 │
 ├── detective.py
