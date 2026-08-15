@@ -44,7 +44,7 @@ The system also determines the suspicion level based on the highest evidence sco
 - **50–99 points** → Moderate Suspicion
 - **Below 50 points** → Low Suspicion
 
-- ## Project Structure
+ ## Project Structure
 
 ```text
 Python-Detective/
@@ -54,12 +54,12 @@ Python-Detective/
 └── README.md
 
 
-### 6. Future Improvements
+ ### 6. Future Improvements
 
 ```markdown
-##  Future Improvements
+ ##  Future Improvements
 
-Some features that can be added in future versions:
+- Some features that can be added in future versions:
 
 - Add a graphical user interface (GUI)
 - Support multiple investigation cases
